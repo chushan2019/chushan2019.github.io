@@ -1,5 +1,5 @@
 title: "歡迎來到我的個人blog"
-author: "Blog Author"
+author: "Stanley"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -25,8 +25,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+  disqus_shortname: ""    # see https://disqus.com/
+  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
